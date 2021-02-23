@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: salmon;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container .login-container {
+  width: 500px;
+  height: 500px;
+  background-color: sandybrown;
+  border: solid white;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container{
+    background-color: salmon;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .login-container{
+        width: 500px;
+        height: 500px;
+        background-color: sandybrown;
+        border: solid white;
+    }
+}
