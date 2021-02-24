@@ -1,0 +1,34 @@
+.login-form{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    margin: 20px;
+    
+
+
+    input[type='text'], input[type='password']{
+    outline:none;
+    margin: 25px;
+    border-radius: 3px;
+    border: 1px solid black;
+    display: block;
+    padding: 15px;
+    width:300px;
+    }
+
+    input[type='submit']{
+        padding: 10px;
+        width: 150px;
+        color: white;
+        background-color: slategrey;
+        border-radius:5px;
+        cursor:pointer;
+    }
+    input[type='submit']:hover{
+        background-color: steelblue;
+    }
+
+}
+
+
+
