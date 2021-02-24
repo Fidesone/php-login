@@ -10,6 +10,7 @@
     justify-content: center;
 
     .login-container{
+        
         width: 500px;
         height: 500px;
         background-color: sandybrown;
@@ -17,12 +18,14 @@
         text-align: center;
         box-shadow: 10px 5px 5px black ;
         border-radius: 15px;
+        
 
         .login-title{
-            
+            display:inline-flex;
             border-bottom: solid;
             margin-top: 30px;
             padding-bottom: 20px;
+            word-spacing: 30px;
             // background-color: hotpink;
            
             

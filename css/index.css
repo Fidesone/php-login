@@ -29,9 +29,13 @@
 }
 
 .container .login-container .login-title {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
   border-bottom: solid;
   margin-top: 30px;
   padding-bottom: 20px;
+  word-spacing: 30px;
 }
 
 .container .login-container .login-title h1 {
