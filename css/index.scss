@@ -14,5 +14,49 @@
         height: 500px;
         background-color: sandybrown;
         border: solid white;
+        text-align: center;
+        box-shadow: 10px 5px 5px black ;
+        border-radius: 15px;
+
+        .login-title{
+            
+            border-bottom: solid;
+            margin-top: 30px;
+            padding-bottom: 20px;
+            // background-color: hotpink;
+           
+            
+            h1{
+                font-family: 'Fjalla One', sans-serif;
+            }
+            // background-color: green;
+            
+        }
+        .login-description{
+            margin-top: 30px;
+            h2{
+                font-family: 'Fjalla One', sans-serif;
+            }
+            // background-color: greenyellow;
+        }
+        .login-elements{
+            
+           
+        // background-color: grey;
+        margin-top: 40px;
+        font-size: 1.5em;
+            
+        a{
+            color: white;
+            margin: 50px;
+            text-decoration: none;
+            background-color: grey;
+            border-radius: 5px;
+            
+        }
+            
+        }
+
+
     }
 }
