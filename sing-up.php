@@ -9,8 +9,10 @@
 <body>
 <div class='container'>
     <div class='login-container'>
-    <div class='login-title'>
-        <h1>Sing-up</h1>
+        <div class='login-title'>
+            <a href='index.php'><img class='arrow' src='img/arrow-back.png' width='60'; height='60'/></a>
+            <h1>SingUp</h1>
+        
         </div>
     </div>
 </div>

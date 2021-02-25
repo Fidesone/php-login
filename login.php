@@ -12,8 +12,9 @@
     <div class='login-container'>
     
         <div class='login-title'>
-        <h1>Login</h1>
-        <img class='arrow' src='img/arrow-back.png' width='75'; height='75'>
+        
+            <a href='index.php'><img class='arrow' src='img/arrow-back.png' width='60'; height='60'/></a>
+            <h1>Login</h1> 
         </div>
             <div class='login-form'>
             <form action='login.php' method='post'>
